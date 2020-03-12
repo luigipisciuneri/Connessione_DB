@@ -1,0 +1,4 @@
+Creare un programma Java che si colleghi allo schema WORLD e che permetta le seguenti operazioni:
+1. Trovare tutte le città di un dato "countrycode"
+2. Data una nazione, trovare la città più popolosa
+3. Data una forma di governo tra quelle presenti nel database (suggerimento: select distinct....), indicare lo stato con estensione territoriale più grande.
